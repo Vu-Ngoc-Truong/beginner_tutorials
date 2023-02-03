@@ -1,0 +1,23 @@
+year: 2022
+thanh_hoa: [ {dan_so: 200}, {thu_nhap: 100}]
+# ha_noi:
+#     dan_so: 1000
+#     thu_nhap: 800
+# vinh_phuc:
+#     - dan_so: 150
+#       nam: 100
+#       nu: 50
+#     - thu_nhap: 300
+# phu_tho:
+# - dan so: 1000
+# - thu nhap: 150
+
+# ha_tinh: |
+#     tre trung
+#     nang dong
+#     nhiet huyet
+# bac_ninh:
+#     Dan so:
+#         nam : True
+#         nu: False
+#     thu_nhap: 650
